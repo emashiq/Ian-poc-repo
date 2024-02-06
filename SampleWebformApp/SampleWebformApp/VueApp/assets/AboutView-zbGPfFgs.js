@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as c}from"./index-G3CenYiI.js";const o={},s={src:"https://localhost:44353",width:"100%",height:"100%"};function r(n,_){return c(),e("iframe",s)}const i=t(o,[["render",r]]);export{i as default};
