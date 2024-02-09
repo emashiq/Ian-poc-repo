@@ -82,3 +82,6 @@ node_modules/
 dist/
 *.log
 *.vsidx
+/MicrosoftAuthenticationBasedWebFormApp/MicrosoftAuthenticationBasedWebFormApp/bin
+/MicrosoftAuthenticationBasedWebFormApp/MicrosoftAuthenticationBasedWebFormApp/Content
+/MicrosoftAuthenticationBasedWebFormApp/MicrosoftAuthenticationBasedWebFormApp/Properties
