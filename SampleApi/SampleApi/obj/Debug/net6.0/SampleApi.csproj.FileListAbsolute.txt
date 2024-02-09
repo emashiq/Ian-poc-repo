@@ -77,3 +77,4 @@ C:\Users\Ashiqur\Documents\Ian\SampleApi\SampleApi\obj\Debug\net6.0\refint\Sampl
 C:\Users\Ashiqur\Documents\Ian\SampleApi\SampleApi\obj\Debug\net6.0\SampleApi.pdb
 C:\Users\Ashiqur\Documents\Ian\SampleApi\SampleApi\obj\Debug\net6.0\SampleApi.genruntimeconfig.cache
 C:\Users\Ashiqur\Documents\Ian\SampleApi\SampleApi\obj\Debug\net6.0\ref\SampleApi.dll
+C:\Users\Ashiqur\Documents\Ian\SampleApi\SampleApi\obj\Debug\net6.0\SampleApi.sourcelink.json
